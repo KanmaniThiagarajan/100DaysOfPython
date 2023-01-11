@@ -1,0 +1,2 @@
+#d05 - passwordgenerator program (Python loops (for), iteration, range, string to list, shuffle, random.choice)
+#A program to generate a new password everytime . Users can decide the no of letters, no of numbers and no of symbols. The password will be generated randomly from the letters, numbers and symbols list thats already declared
